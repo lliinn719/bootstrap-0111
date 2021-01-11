@@ -1,0 +1,21 @@
+body {
+    font-family: Microsofe JhengHei;
+}
+.carousel .carousel-item {
+    height: 500px;
+}
+.carousel .carousel-item img {
+    min-height: 600px;
+    max-height: 800px;
+    object-fit: cover;
+  }
+.container .row {
+    margin-top: 50px;
+    text-align: center;
+}
+hr {
+    width: 1024px;
+}
+body, html {
+    overflow-x: hidden;
+}
